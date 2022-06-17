@@ -6,8 +6,18 @@ This is my journey for learn asm, asm is hard. You must strong in logic, debug s
 ## How to compile
 
 > gcc -static -nostartfiles fileasm -o resultnamecompile
+> 
 > Ex:
+> 
 > gcc -static -nostartfiles conjump.S -o conjump
+
+## Tools or tips for debug 
+
+- Gdb
+- Ghidra 
+- Gef
+- Linux user manual
+- Objdump
 
 ## Contribute
 
