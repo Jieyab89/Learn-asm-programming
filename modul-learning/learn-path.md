@@ -25,4 +25,14 @@
 - http://6.s081.scripts.mit.edu/sp18/x86-64-architecture-guide.html
 - http://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
 
+## Computer architecture
+
+- https://online.sunderland.ac.uk/what-is-computer-architecture/
+
+## Memory Hierarchy
+
+- https://www.geeksforgeeks.org/memory-hierarchy-design-and-its-characteristics/
+- https://www.tutorialspoint.com/what-is-memory-hierarchy
+- https://en.wikipedia.org/wiki/Memory_hierarchy
+
 > Note: `If you have some modul, article or anyhting you can add this'
