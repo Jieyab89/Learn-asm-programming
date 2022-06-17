@@ -11,6 +11,14 @@ This is my journey for learn asm, asm is hard. You must strong in logic, debug s
 > 
 > gcc -static -nostartfiles conjump.S -o conjump
 
+## Tools or tips for debug 
+
+- Gdb
+- Ghidra 
+- Gef
+- Linux user manual
+- Objdump
+
 ## Contribute
 
 You can join and contribute, you can add paths or folders to your categories. For example Basic, Intermediate, Difficult, Very difficult, Shellcode or in the form of a learning book (Guide learn for asm)
