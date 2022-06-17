@@ -26,7 +26,7 @@ _start:
   movl  $13, %edx
   syscall
 
-  subq $10000, %rsp
+  subq $10000, %rsp // $10000 (Immediate) length for buffer 
   movl $0, %eax
   movl $0, %edi
   leaq (%rsp), %rsi
