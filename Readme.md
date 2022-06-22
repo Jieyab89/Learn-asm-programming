@@ -1,7 +1,8 @@
 ![Image by Educba](https://cdn.educba.com/academy/wp-content/uploads/2019/10/Assembly-Language-vs-Machine-Language-1.png.webp "Image by Educba")
+
 # About
 
-This is my journey for learn asm, asm is hard. You must strong in logic, debug skill, arch and basic code like C,PHP, PYTHON, C++  
+This is my journey for learn asm, asm is hard. You must strong in logic, debug skill, arch and basic code like C,PHP, PYTHON, C++ and anything you can learn on this repo
 
 ## How to compile
 
@@ -22,7 +23,7 @@ This is my journey for learn asm, asm is hard. You must strong in logic, debug s
 
 ## Contribute
 
-You can join and contribute, you can add paths or folders to your categories. For example Basic, Intermediate, Difficult, Very difficult, Shellcode or in the form of a learning book (Guide learn for asm)
+You can join and contribute, you can add paths or folders to your categories. For example Basic, Intermediate, Difficult, Very difficult, CTF, Shellcode or in the form of a learning book (Guide learn for asm)
 
 ## Thanks to
 

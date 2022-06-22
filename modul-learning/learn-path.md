@@ -1,4 +1,9 @@
 # Path for learn
+
+## ASM guides or tutorials
+
+- https://www.tutorialspoint.com/assembly_programming/index.htm
+
 ## ASM syntax rule
 
 - https://staffwww.fullcoll.edu/aclifton/courses/cs241/syntax.html

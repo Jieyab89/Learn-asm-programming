@@ -1,0 +1,1 @@
+1. Print your name using assembly static or on variabel!

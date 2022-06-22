@@ -1,6 +1,6 @@
 .section .data
-my_str:
-    .asciz "Input text : "
+my_input:
+    .asciz "Input name : "
 
 .section .text
 
@@ -8,25 +8,13 @@ my_str:
 
 _start:
 
-  /*
-    Note
-
-    subq = subtract
-
-    subb = byte = 8bit
-    subw = word = 16bit
-    subl = long or dword = 32bit
-    subq = qword = 64bit
-
-  */
-
   movl  $1, %eax
   movl  $1, %edi
-  leaq  my_str(%rip), %rsi
+  leaq  my_input(%rip), %rsi
   movl  $13, %edx
   syscall
 
-  subq $10000, %rsp // $10000 (Immediate) length for buffer
+  subq $10000, %rsp
   movl $0, %eax
   movl $0, %edi
   leaq (%rsp), %rsi
