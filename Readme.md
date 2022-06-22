@@ -25,6 +25,15 @@ This is my journey for learn asm, asm is hard. You must strong in logic, debug s
 
 You can join and contribute, you can add paths or folders to your categories. For example Basic, Intermediate, Difficult, Very difficult, CTF, Shellcode or in the form of a learning book (Guide learn for asm)
 
+> Example
+>
+> There folder name easy. You can make new folder with title, for example easy folder->if else in asm (name folder). In this folder there are file asm, result compile
+>
+> You can add on folder category, please describe name file and in note or comment in your code
+>
+
+Thank you :D
+
 ## Thanks to
 
 - [Ammar Faizi](https://github.com/ammarfaizi2)
