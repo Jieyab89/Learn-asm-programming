@@ -1,4 +1,5 @@
 .section .data
+
 my_str:
     .asciz "Input text : "
 

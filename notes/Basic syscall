@@ -1,0 +1,49 @@
+- [ENGLISH]
+
+Syscall number is in rax
+
+There are 6 arguments, but there are 3 write syscalls, including:
+
+First argument = rdi
+Second argument = rsi
+Third argument = rdx
+
+The write syscall has three arguments:
+
+first argument is file descriptor (stdin, stdout, stderr)
+the second argument is a pointer
+the third argument is the length of the data or the length to be written
+
+Instruction user
+
+mov : user to fill register and memory
+lea : fetch address from memory, then put in register
+xor : instruction to do exclusive or arithmetic example
+subq : subtraction
+
+The return value of the syscall is in the rax register
+
+- [INDOENESIAN]
+
+Syscall number ada di dalam rax
+
+Argumen ada 6, tetapi syscall write ada 3. Antara lain :
+
+Argumen pertama = rdi
+Argumen ke dua = rsi
+Argumen ke tiga = rdx
+
+Syscall write ada tiga argumen :
+
+argumen pertama adalah file deskriptor (stdin, stdout, stderr)
+argumen ke dua adalah pointer
+argumen ke tiga adalah panjang data atau length yang akan di write
+
+Pengguan instruksi
+
+mov : pengguan untuk mengisi register dan memori
+lea : mengambil addres dari sebuah memori, lalu dimasukan di dalam register
+xor : instruksi melakukan exclusive or cotoh aritmatika
+subq : pengurangan
+
+Return value syscall ada di register rax
